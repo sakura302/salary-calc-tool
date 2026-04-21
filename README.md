@@ -34,6 +34,7 @@
 
 ##ER図
 erDiagram
+```mermaid
     PERSONAL_MASTER ||--o{ ATTENDANCE_CSV : "1:N (社員番号)"
     PERSONAL_MASTER ||--o{ SHIFT_EXCEL : "1:N (社員番号)"
 
@@ -60,4 +61,5 @@ erDiagram
         int lunch_unit_price "お弁当単価"
         int paid_leave_minutes "有給時間(分)"
     }
+```mermaid
 
