@@ -34,3 +34,8 @@
 
 ## 💡 ER図
 <img width="671" height="852" alt="image" src="https://github.com/user-attachments/assets/2151b96c-5ba1-4ba3-a243-a959727f51d4" />
+
+<img width="1440" height="1548" alt="screenshot_full (1)" src="https://github.com/user-attachments/assets/e393715a-ba23-48d1-83da-99ce3cb9365c" />
+<img width="1440" height="820" alt="screenshot_upload (1)" src="https://github.com/user-attachments/assets/406fee28-19c3-4dfd-ae80-19a3c799d767" />
+<img width="1080" height="783" alt="screenshot_table (1)" src="https://github.com/user-attachments/assets/0239405f-52d4-4d55-9baa-d98f6cb2862f" />
+
